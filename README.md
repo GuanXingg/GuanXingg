@@ -1,6 +1,6 @@
 # 💫About Me :
 Hi 👋, I'm Hưng, a Frontend developer
-🔭 I’m currently a junior student in university
+🔭 I’m currently a Junior student in university
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/quanhung.ha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/quanhung.ha/) 
